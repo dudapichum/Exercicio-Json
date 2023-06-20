@@ -1,0 +1,101 @@
+{
+	"nomeEscola": "FIEB",
+	"endereco": "Av. Andr�meda, 500 - Alphaville, Barueri - SP",
+	"diretoria": [
+		{
+			"nome": "Maria Isabel",
+			"anoEntrada": 2017
+		},
+		{
+			"nome": "Fernando Rocha",
+			"anoEntrada": 2019
+		}
+	],
+	"salas": [
+		{
+			"serie": "1� Ano",
+			"nome": "A",
+			"professores": [
+				{
+					"nome": "Ana Gold",
+					"materia": "matematica"
+				},
+				{
+					"nome": "Sebasti�o",
+					"materia": "historia"
+				}
+			],
+			"alunos": [
+				{
+					"nome": "Rafael Garcia",
+					"idade": 18
+				},
+				{
+					"nome": "Renan Quirino",
+					"idade": 16
+				},
+				{
+					"nome": "Renata Pascoal",
+					"idade": 15
+				}
+			]
+		},
+		{
+			"serie": "2� Ano",
+			"nome": "B",
+			"professores": [
+				{
+					"nome": "Martha",
+					"materia": "matematica"
+				},
+				{
+					"nome": "Celso",
+					"materia": "historia"
+				}
+			],
+			"alunos": [
+				{
+					"nome": "Amanda Pardini",
+					"idade": 16
+				},
+				{
+					"nome": "Larissa Fujimoto",
+					"idade": 20
+				},
+				{
+					"nome": "Gabriel Lopez",
+					"idade": 15
+				}
+			]
+		},
+		{
+			"serie": "3� Ano",
+			"nome": "C",
+			"professores": [
+				{
+					"nome": "Ana Beatriz",
+					"materia": "matematica"
+				},
+				{
+					"nome": "Carlos Eduardo",
+					"materia": "historia"
+				}
+			],
+			"alunos": [
+				{
+					"nome": "Fernando Lupe",
+					"idade": 17
+				},
+				{
+					"nome": "Alberto Camargo",
+					"idade": 17
+				},
+				{
+					"nome": "Marcio Gon�alvez",
+					"idade": 18
+				}
+			]
+		}
+	]
+}
+
